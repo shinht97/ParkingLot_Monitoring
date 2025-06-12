@@ -1,0 +1,5 @@
+cctv_checker/
+build/
+dist/
+
+*.spec
